@@ -1,0 +1,146 @@
+[
+  {
+    "id": "wallpapers/hero/hero",
+    "fileName": "hero.png",
+    "title": "Hero",
+    "src": "wallpapers/hero/hero.png",
+    "alt": "Hero",
+    "featured": true
+  },
+  {
+    "id": "wallpapers/sakura/00001",
+    "fileName": "00001.jpg",
+    "title": "00001",
+    "src": "wallpapers/sakura/00001.jpg",
+    "alt": "00001",
+    "featured": false
+  },
+  {
+    "id": "wallpapers/sakura/00019",
+    "fileName": "00019.png",
+    "title": "00019",
+    "src": "wallpapers/sakura/00019.png",
+    "alt": "00019",
+    "featured": false
+  },
+  {
+    "id": "wallpapers/sakura/00027",
+    "fileName": "00027.jpg",
+    "title": "00027",
+    "src": "wallpapers/sakura/00027.jpg",
+    "alt": "00027",
+    "featured": false
+  },
+  {
+    "id": "wallpapers/sakura/00038",
+    "fileName": "00038.png",
+    "title": "00038",
+    "src": "wallpapers/sakura/00038.png",
+    "alt": "00038",
+    "featured": false
+  },
+  {
+    "id": "wallpapers/sakura/00046",
+    "fileName": "00046.jpg",
+    "title": "00046",
+    "src": "wallpapers/sakura/00046.jpg",
+    "alt": "00046",
+    "featured": false
+  },
+  {
+    "id": "wallpapers/sakura/00065",
+    "fileName": "00065.jpg",
+    "title": "00065",
+    "src": "wallpapers/sakura/00065.jpg",
+    "alt": "00065",
+    "featured": false
+  },
+  {
+    "id": "wallpapers/sakura/birdandcat",
+    "fileName": "birdandcat.jpg",
+    "title": "Birdandcat",
+    "src": "wallpapers/sakura/birdandcat.jpg",
+    "alt": "Birdandcat",
+    "featured": false
+  },
+  {
+    "id": "wallpapers/sakura/deku",
+    "fileName": "deku.jpg",
+    "title": "Deku",
+    "src": "wallpapers/sakura/deku.jpg",
+    "alt": "Deku",
+    "featured": false
+  },
+  {
+    "id": "wallpapers/sakura/file_00000000bfe871fda8da5351a3cacf1d_1769323092778",
+    "fileName": "file_00000000bfe871fda8da5351a3cacf1d_1769323092778.png",
+    "title": "File 00000000bfe871fda8da5351a3cacf1d 1769323092778",
+    "src": "wallpapers/sakura/file_00000000bfe871fda8da5351a3cacf1d_1769323092778.png",
+    "alt": "File 00000000bfe871fda8da5351a3cacf1d 1769323092778",
+    "featured": false
+  },
+  {
+    "id": "wallpapers/sakura/rain_dark_1",
+    "fileName": "rain_dark_1.png",
+    "title": "Rain Dark 1",
+    "src": "wallpapers/sakura/rain_dark_1.png",
+    "alt": "Rain Dark 1",
+    "featured": false
+  },
+  {
+    "id": "wallpapers/sakura/shigeo-kageyama-3840x2160-16137",
+    "fileName": "shigeo-kageyama-3840x2160-16137.jpg",
+    "title": "Shigeo Kageyama 3840x2160 16137",
+    "src": "wallpapers/sakura/shigeo-kageyama-3840x2160-16137.jpg",
+    "alt": "Shigeo Kageyama 3840x2160 16137",
+    "featured": false
+  },
+  {
+    "id": "wallpapers/sakura/sword_girl_with_blue_eyes",
+    "fileName": "sword_girl_with_blue_eyes.png",
+    "title": "Sword Girl With Blue Eyes",
+    "src": "wallpapers/sakura/sword_girl_with_blue_eyes.png",
+    "alt": "Sword Girl With Blue Eyes",
+    "featured": false
+  },
+  {
+    "id": "wallpapers/sakura/tokyo_streets",
+    "fileName": "tokyo_streets.jpg",
+    "title": "Tokyo Streets",
+    "src": "wallpapers/sakura/tokyo_streets.jpg",
+    "alt": "Tokyo Streets",
+    "featured": false
+  },
+  {
+    "id": "wallpapers/sakura/wallhaven-9dpdj1",
+    "fileName": "wallhaven-9dpdj1.png",
+    "title": "Wallhaven 9dpdj1",
+    "src": "wallpapers/sakura/wallhaven-9dpdj1.png",
+    "alt": "Wallhaven 9dpdj1",
+    "featured": false
+  },
+  {
+    "id": "wallpapers/sakura/wallhaven-e8xzrk",
+    "fileName": "wallhaven-e8xzrk.png",
+    "title": "Wallhaven E8xzrk",
+    "src": "wallpapers/sakura/wallhaven-e8xzrk.png",
+    "alt": "Wallhaven E8xzrk",
+    "featured": false
+  },
+  {
+    "id": "wallpapers/sakura/wallhaven-gwzqjl",
+    "fileName": "wallhaven-gwzqjl.png",
+    "title": "Wallhaven Gwzqjl",
+    "src": "wallpapers/sakura/wallhaven-gwzqjl.png",
+    "alt": "Wallhaven Gwzqjl",
+    "featured": false
+  },
+  {
+    "id": "wallpapers/sakura/wallhaven-zpx3xw",
+    "fileName": "wallhaven-zpx3xw.png",
+    "title": "Wallhaven Zpx3xw",
+    "src": "wallpapers/sakura/wallhaven-zpx3xw.png",
+    "alt": "Wallhaven Zpx3xw",
+    "featured": false
+  }
+]
